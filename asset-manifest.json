@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/charugulla-sai/jokegenerator.git/static/css/main.26bfc0b3.css",
+    "main.js": "/charugulla-sai/jokegenerator.git/static/js/main.7d1f188e.js",
+    "index.html": "/charugulla-sai/jokegenerator.git/index.html",
+    "main.26bfc0b3.css.map": "/charugulla-sai/jokegenerator.git/static/css/main.26bfc0b3.css.map",
+    "main.7d1f188e.js.map": "/charugulla-sai/jokegenerator.git/static/js/main.7d1f188e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26bfc0b3.css",
+    "static/js/main.7d1f188e.js"
+  ]
+}
